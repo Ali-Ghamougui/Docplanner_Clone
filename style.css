@@ -1,0 +1,375 @@
+.Logo{
+    width: 270px;
+    position: relative;
+    left: 193px;
+    top: 16px;
+}
+.Nav{
+    position: relative;
+    left: 920px;
+    top: -10px;
+    word-spacing: 20px;
+   
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.Career, .AboutUs {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #ABABAB;
+    font-weight:800;
+    border-spacing: 20px;
+}
+.Career, .AboutUs:hover {
+    color: #0FC7AA;
+}
+.Aboutus{
+    color: #0FC7AA;
+}
+#Departments {
+   
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+    border: 0px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #ABABAB;
+    font-weight:800;
+}
+#Departments:hover{
+    color: #0FC7AA;
+}
+.options {
+    color: #ABABAB;
+    text-shadow: 0 0 0 #000;
+    border: 0px;
+}
+.options:hover {
+    border: 0px;
+    color: #0FC7AA;
+}
+.PLogo {
+    width: 40px;
+    position: relative;
+    left: 50%;
+    top: 100px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Work+Sans:ital,wght@1,200&display=swap');
+.PTitle {
+    position: relative;
+    left: 25%;
+    top: 100px;
+    font-family: 'Work Sans', sans-serif;
+    color: #0FC7AA;
+  font-weight: 10;
+  font-size: 34px;
+}
+
+.P1, .P2 {
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+    color: grey;
+    
+    
+
+}
+.P1 {
+    margin-right:-100px ;
+}
+.TwoP {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   position: relative;
+   top: 100px;
+   line-height: 30px;
+}
+.Content1 {
+    border-radius: 15px;
+    background: #00CCB1;
+    width: 312px;
+    height: 350px;
+}
+
+html, body {
+    overflow-x: hidden ;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.Boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center  ;
+    position: relative;
+    top:150px;
+    text-align: left;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+   
+  
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 28px;
+    position: absolute;
+    top: 50px;
+    margin-left: 30px;
+}
+.Content2 {
+    border-radius: 10px;
+    background: #3D83DF;
+    width: 312px;
+    height: 350px;
+}
+.Content3 {
+    border-radius: 15px;
+    background: #1B2734;
+    width: 312px;
+    height: 350px;
+}
+.Icons {
+    position: absolute;
+    top: 40px;
+    width: 30px;
+ margin: 30px;
+ margin-top: 0px;
+ 
+}
+.BoxP {
+    position: absolute;
+    top: 100px;
+    text-align: left;
+    margin: 30px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: lighter;
+}
+.BoxS {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+    border: 0px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+ color: white;
+ background-color: transparent;
+   
+    position: absolute;
+    margin-left: 30px;
+    top: 250px;
+    font-size: 20px ;
+    text-decoration: underline;
+    
+}
+.BoxS2 {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+    border: 0px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+ color: white;
+ background-color: transparent;
+    position: absolute;
+    margin-left: 30px;
+    font-size: 20px ;
+    text-decoration: underline;
+    position: absolute;
+    margin-left: 30px;
+    top:290px;
+    font-size: 20px ;
+}
+.Options01 {
+    color: black;
+}
+.Box1 {
+    margin-right: 20px;
+}
+.Box2{
+    margin-right: 20px;
+}
+
+.CompanyP{
+    position: relative ;
+    top: 160px;
+    left: 185px;
+    font-family: 'Work Sans', sans-serif;   
+    font-size: 26px;
+    font-weight:  lighter;
+    color:#00CCB1 ;
+    margin-top: 60px;
+}
+.Logos {
+ position: relative;
+ left: 35%;
+ 
+ top: 20px;
+ display: flex;
+ flex-direction: row;
+
+}
+.LogoCompany {
+    margin: 50px;
+   
+    filter: grayscale(100%);
+}
+.LogoCompany:hover {
+    filter:none;
+}
+.TheWorld {
+    background-color: #DFF9F7;
+    position: relative;
+   margin-bottom: -600px;
+}
+.Box01, .Box02, .Box03, .Box04 {
+    background-color: white;
+    border-radius: 10px;
+  width: 230px;
+  height: 250px;
+  text-align: center;
+  margin: 20px;
+  
+}
+.Box03, .Box04 {
+    margin-bottom: -500px;
+}
+
+.BI {
+    width: 50px;
+    height: 51px;
+    margin-top: 30px;
+}
+.BoxesT {
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;   
+    font-weight:  lighter;
+    color:#00CCB1 ;
+    margin-top: 50px;
+  position: relative;
+  bottom: 50px;
+} 
+.BoxP01{
+    position: relative;
+  top:-70px;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+    line-height:20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+}
+.BoxP02 {
+    position: relative;
+    top:-70px;
+      font-size: 13px;
+      text-align: center;
+      font-family: 'Roboto', sans-serif; 
+      line-height:20px;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 50px;
+}
+.Box01 {
+    position: relative;
+    left: 685px;
+    top: -20px;
+}
+.Box02 {
+    position: relative;
+    left:950px;
+bottom:330px ;
+}
+.Box03 {
+    position: relative;
+    left: 685px;
+    bottom: 280px;
+}
+.Box04 {
+  position: relative;
+  left: 950px;
+  bottom:100px;
+}
+.WT {
+    position: relative;
+    top: 150px;
+    font-family: 'Roboto', sans-serif; 
+    left: 15%;
+    font-weight: lighter;
+    color: #00B39B;
+    text-align: left;
+}
+.WP {
+    position: relative;
+    top: 150px;
+    font-family: 'Roboto', sans-serif; 
+    left: 15%;
+    font-weight: lighter;
+    color: grey;
+    text-align: left;
+}
+.IMGS3 {
+    width: 300px;
+    height: 277px;
+   display: inline-block;
+   margin: 10px;
+   position: relative ;
+   left: 15%;
+}
+.Section03I {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: left;
+}
+.Section03T {
+    text-align: center;
+    color: #00B39B;
+font-weight: lighter;
+font-family: 'Roboto', sans-serif; 
+}
+.Section03P {
+    text-align: center;
+    color: grey;
+font-weight: lighter;
+font-family: 'Roboto', sans-serif; 
+}
+.Section03 {
+    margin-top: 650px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+footer {
+    text-align: center;
+    font-size: 15px;
+    color: grey;
+    font-family: 'Roboto', sans-serif; 
+}
+.SectionFinal {
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: lighter;
+margin: 50px;
+}
+button {
+    width: 300px;
+    height: 38px;
+    font-size: 15px;
+    background-color: #4582d1;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+button:hover {
+    background-color:rgb(61, 61, 218) ;
+}
